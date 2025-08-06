@@ -1,0 +1,10 @@
+[
+  {
+    "username": "acc1",
+    "cookie": ".ROBLOSECURITY=xxx"
+  },
+  {
+    "username": "acc2",
+    "cookie": ".ROBLOSECURITY=yyy"
+  }
+]
